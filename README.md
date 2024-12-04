@@ -1,1 +1,1 @@
-# prebuilt_libgit2_for_android
+# prebuilt library libgit2 for android, arm64
